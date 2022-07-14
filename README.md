@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @serlis
 - 👀 I’m interested in VueJs
-- 🌱 I’m currently learning JS, VUEJS
-- 💞️ I’m looking to collaborate on VueJs Projects
+- 🌱 I’m currently learning JS, React JS
 - 📫 How to reach me in serlismadonado@gmail.com
 
 <!---
